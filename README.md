@@ -206,10 +206,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
+![image](https://github.com/Nagajyothichinta/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/3bb3d61a613dffe95c3c3c9d128823dfb5baab02/u1.png)
 
+![image](https://github.com/Nagajyothichinta/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/3bb3d61a613dffe95c3c3c9d128823dfb5baab02/u2.png)
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
+ ![image](https://github.com/Nagajyothichinta/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/3bb3d61a613dffe95c3c3c9d128823dfb5baab02/u3.png)
  
  
 ## Result :
