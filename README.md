@@ -92,6 +92,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 
+
 ## Output screen shots of proteus  :
  
  
